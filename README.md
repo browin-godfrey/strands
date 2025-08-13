@@ -2,17 +2,6 @@
 This project integrates Agentic AI (using Strands Agents) into our workflow to automatically perform security reviews and threat modelling.
 
 
-agentic-ai-security-review/
-│
-├── README.md
-├── requirements.txt
-├── security_review.py      # Main Strands script
-├── arch.png                # Sample architecture diagram
-├── output/                 # Folder for storing generated reports
-│   └── sample_report.txt
-└── diagrams/
-    └── architecture_flow.png
-
 
 # Agentic AI for Automated Security Review using Strands
 
