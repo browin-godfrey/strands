@@ -37,8 +37,8 @@ Instead of manually performing reviews, this project uses AI agents to:
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/<your-username>/agentic-ai-security-review.git
-cd agentic-ai-security-review
+git clone https://github.com/<your-username>/strands.git
+cd strands
 
 
 **Reference Document:**
